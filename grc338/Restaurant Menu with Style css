@@ -1,0 +1,36 @@
+    body{
+            background-color: rgb(255, 245, 240);
+            color: rgb(0, 95, 190);
+            }
+
+        h1{
+            font-family: serif;
+            text-transform: uppercase;
+            background: rgb(250, 230, 220);
+            margin: 3em 5em 1em 8em;
+            padding: 1em 2em 1em 4em;
+           }
+
+        h2{
+            background: rgb(250, 230, 220);
+            margin: .5em 29.5em 2em 0em;
+            padding: .2em 2em .2em 0em;
+           }
+
+        h3{
+            background: rgb(250, 230, 220);
+            margin: 1.5em 0em 1em 0em;
+            padding: .2em 0em .2em 0em;
+           }
+    
+        .descriptions{
+            font-style: italic;
+            }
+
+        .coursetypes{
+            font-size: 1.3em;
+            }
+        
+
+
+
