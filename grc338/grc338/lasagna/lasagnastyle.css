@@ -1,0 +1,53 @@
+/*CSS DOCUMENT*/
+
+
+img {
+width: 50%;
+margin: 2em 4em .25em 10em;
+}
+
+div.container{
+    max-width: 40em;
+    margin: auto;
+}
+
+h1{
+    color: white;
+    background-color: green;
+    margin: 1em 1em 1em 1.75em;
+    padding: .5em .5em .5em .5em;  
+}
+
+h2{
+    color:white;
+    background-color:rgb(210 0 0);
+    margin:.1em 1.3em 1em 2.3em ;
+    padding: .5em 3em .5em 6em 
+}
+
+p{
+    text-align: center;
+    margin: 1em 2em 1em 2em;
+   
+    
+}
+
+div.ingredients{
+    background-color: beige;
+    margin: 1em 1em 0em 1em;
+    padding: 0em 0em .5em 0em;
+}
+div.directions{
+    background-color: antiquewhite;
+    margin: 1em 1em 0em 1em;
+    padding: 0em 0em .5em 0em;
+}
+
+.ingredients h3{
+    background-color: rgb(255 200 120);
+}
+
+.directions h3{
+    background-color: rgb(255, 200, 150);
+}
+
