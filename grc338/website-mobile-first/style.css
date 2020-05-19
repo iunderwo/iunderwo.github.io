@@ -1,6 +1,8 @@
 nav ul{
     float:right;
     padding-top: 1.5em;
+    margin-left:0em;
+    padding-left: 0em;
     
 }
 nav ul li{
@@ -21,8 +23,9 @@ font-size: 1.3em
 }
 
 .logo{
-    margin: 1em 1em 1em 1em;
+    margin: 1em 0em 1em 1em;
     float:left;
+    
 }
 
 
@@ -32,12 +35,12 @@ body{
 
 
 .storefront{
-    width: 60%;
-    margin: 1em 1em 1em 7em;}
+    width: 100%;
+}
 
 .portrait{
-    width: 60%;
-    margin: 1em 1em 1em 7em}
+    width: 100%;
+    }
 
 .about{
     font-family: josefin-sans, sans-serif;
@@ -51,7 +54,7 @@ font-family: josefin-sans, sans-serif;
     font-style: normal;
     color:rgb(190, 132, 54);
     clear: both;
-    margin:.1em 1em .1em 8em;
+    text-align: center;
 }
 
 .itemCategory{
@@ -112,19 +115,10 @@ margin: 0em 2em 1em 1em;
 }
 
 .insideBakery{
-    float:right;
-    width: 70%;
+    align-content: center;
+    width: 100%;
 }
 
-
-.intro{
-       font-family: josefin-sans, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    color:rgb(190, 132, 54);
-    float:left;
-    margin: 0em 0em 0em 0em;
-}
 
 
 
