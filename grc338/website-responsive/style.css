@@ -126,7 +126,7 @@ div.navigation{
 @media only screen and (min-width:30em){
     div.navigation{
     float:right;
-    margin-top:-3em;
+    margin-top:-5em;
     }
 }
 
