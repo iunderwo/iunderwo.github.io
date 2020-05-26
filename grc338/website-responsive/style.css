@@ -1,0 +1,139 @@
+nav ul{
+   
+    padding-top: 1.5em;
+    padding-left: 0em;
+    
+}
+nav ul li{
+    list-style: none;
+   display: inline;
+    margin-right: 2em;
+    font-size: 1.3em;
+}
+
+nav ul li a{
+text-decoration: none;
+color:rgb(190, 132, 54);
+font-family: josefin-sans, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-variant-caps: all-small-caps;
+font-size: 1.3em;
+
+}
+
+.logo{
+    margin: 1em 0em 1em 1em;
+    float:left;
+    
+}
+
+
+body{
+    background-color: rgb(250 250 230);
+}
+
+
+.storefront{
+    width: 100%;
+}
+
+.portrait{
+    width: 100%;
+    }
+
+.about{
+    font-family: josefin-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(190, 132, 54);}
+
+.navNames{
+font-family: josefin-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(190, 132, 54);
+    clear: both;
+    text-align: center;
+}
+
+.itemCategory{
+    font-family: josefin-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(190, 132, 54);
+    clear:both;
+    font-size: 1.5em;
+}
+
+.itemNames{
+    font-family: josefin-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(190, 132, 54);
+    margin: 0em 0em 0em -1em;
+}
+
+.descriptions{
+font-family: josefin-sans, sans-serif;
+font-weight: 300;
+font-style: italic;
+    color:rgb(190, 132, 54);
+margin: 0em 2em 0em 1em;
+}
+
+.price{
+
+font-family: josefin-sans, sans-serif;
+font-weight: 300;
+font-style: italic;
+color:rgb(190, 132, 54);
+font-size: .8em;
+margin: 0em 2em 1em 1em;
+}
+
+.foodlist{
+    list-style: none;
+}
+
+.location{
+    font-family: josefin-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(190, 132, 54);
+}
+
+.drinkImage{
+    width: 50%;
+    float: left;
+    padding-top: .73em;
+    padding-bottom: 2em;
+}
+.breadImage{
+    width: 50%;
+    float:right;
+}
+
+.insideBakery{
+    align-content: center;
+    width: 100%;
+}
+
+div.navigation{
+    max-width:30em;
+}
+
+@media only screen and (min-width:30em){
+    div.navigation{
+    float:right;
+    margin-top:-3em;
+    }
+}
+
+
+
+
+
+
+
+
